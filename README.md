@@ -1,2 +1,2 @@
 # Linked_List_visualization
-Visualization working of Linked List 
+Visualize the  working of Linked List (singly, doubly and circular)
